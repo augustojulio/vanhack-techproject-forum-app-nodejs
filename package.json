@@ -1,0 +1,14 @@
+{
+  "name": "forum_app",
+  "version": "1.0.0",
+  "description": "Simple forum application created with NodeJS, Express, MongoDB and ReactJS",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-validator": "^4.3.0",
+    "mongoose": "^4.13.8"
+  },
+  "author": "Augusto de Paula Júlio",
+  "license": "ISC"
+}
